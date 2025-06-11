@@ -6,11 +6,11 @@ ThreatSniffer is a lightweight Flask web application that detects potential phis
 
 ## 🔍 Features
 
-- 🚨 Detects phishing indicators in both headers and body of emails
-- 🔬 Extracts features like suspicious domains, keywords, and suspicious links
-- 🧠 Uses a pre-trained machine learning model to classify email content
-- 🌐 Simple web interface to test email content
-- 📊 Easily extendable with new features and models
+-  Detects phishing indicators in both headers and body of emails
+-  Extracts features like suspicious domains, keywords, and suspicious links
+-  Uses a pre-trained machine learning model to classify email content
+-  Simple web interface to test email content
+-  Easily extendable with new features and models
 
 ---
 
