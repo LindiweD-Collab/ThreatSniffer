@@ -35,7 +35,7 @@ ThreatSniffer/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/ThreatSniffer.git
+git clone https://github.com/LindiweD-Collab/ThreatSniffer.git
 cd ThreatSniffer
 ```
 
@@ -94,6 +94,7 @@ Train with scikit-learn or similar
 Save the model using joblib
 
 ### 📌 Requirements
+``
 Python 3.7+
 
 Flask
@@ -104,6 +105,7 @@ joblib
 
 📄 License
 MIT License. Feel free to use, modify, and distribute this project for educational and commercial purposes.
+``
 
 ### 🙌 Acknowledgments
 Email datasets from open phishing corpora
