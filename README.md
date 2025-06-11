@@ -15,7 +15,7 @@ ThreatSniffer is a lightweight Flask web application that detects potential phis
 ---
 
 ## 📁 Project Structure
-
+```
 ThreatSniffer/
 ├── app.py                      
 ├── model/
@@ -27,7 +27,7 @@ ThreatSniffer/
 └── README.md                   
 
 
-
+```
 ---
 
 ## ⚙️ Setup Instructions
