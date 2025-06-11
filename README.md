@@ -17,21 +17,14 @@ ThreatSniffer is a lightweight Flask web application that detects potential phis
 ## 📁 Project Structure
 
 ThreatSniffer/
-├── app.py # Main Flask application
-|
+├── app.py                      
 ├── model/
-|
-│ └── phishing_detector_model.pkl # Trained ML model
-|
+│   └── phishing_detector_model.pkl  
 ├── utils/
-|
-│ └── feature_extractor.py # Email feature extraction logic
-|
+│   └── feature_extractor.py    
 ├── templates/
-|
-│ └── index.html # Web UI (HTML form)
-|
-└── README.md
+│   └── index.html              
+└── README.md                   
 
 
 
