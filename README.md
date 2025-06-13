@@ -102,10 +102,11 @@ Flask
 scikit-learn
 
 joblib
-
-📄 License
-MIT License. Feel free to use, modify, and distribute this project for educational and commercial purposes.
 ```
+### 📄 License
+
+MIT License. Feel free to use, modify, and distribute this project for educational and commercial purposes.
+
 
 ### 🙌 Acknowledgments
 Email datasets from open phishing corpora
